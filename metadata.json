@@ -1,0 +1,8 @@
+{
+  "name": "Alex Mercer — Interactive 3D Desk Portfolio",
+  "description": "An interactive 3D developer workspace portfolio built with Three.js, OrbitControls, procedural PBR materials, and accessible glassmorphic overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
